@@ -3,10 +3,10 @@ from selenium.webdriver.common.keys import Keys
 from selenium.common.exceptions import ElementClickInterceptedException
 import time
 
-CHROME_DRIVER_PATH = "D:/Development/chromedriver.exe"
-SIMILAR_ACCOUNT = "buzzfeedtasty"
-USERNAME = "_soul_soothing_"
-PASSWORD = "3egUw72&#ayg"
+CHROME_DRIVER_PATH = YOUR SELENIUMDRIVER PATH
+SIMILAR_ACCOUNT = TARGET ACCOUNT
+USERNAME = YOUR USERNAME
+PASSWORD = YOUR INSTA PASSWORD
 
 
 class InstaFollower:
